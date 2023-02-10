@@ -15,6 +15,8 @@ console.log(
   "https://learnwithgurpreet.com",
   "\x1b[0m"
 );
+
+console.log("😎 Into:   ", "\x1b[36m", "https://gurpreet-singh.in", "\x1b[0m");
 console.log(
   "👾 GitHub: ",
   "\x1b[36m",
