@@ -10,17 +10,23 @@ Currently working as senior front-end architect at PublicisSapient.
 `);
 
 console.log(
-  "📖 Blog:   ",
+  "📖 Blog:    ",
   "\x1b[36m",
-  "https://learnwithgurpreet.com",
+  "https://www.learnwithgurpreet.com",
   "\x1b[0m"
 );
 
-console.log("😎 Into:   ", "\x1b[36m", "https://gurpreet-singh.in", "\x1b[0m");
+console.log("😎 Into:    ", "\x1b[36m", "https://gurpreet-singh.in", "\x1b[0m");
 console.log(
-  "👾 GitHub: ",
+  "👾 GitHub:  ",
   "\x1b[36m",
   "https://github.com/learnwithgurpreet",
+  "\x1b[0m"
+);
+console.log(
+  "Ⓜ️  Mastodon:",
+  "\x1b[36m",
+  "https://mastodon.green/@GurpreetSingh",
   "\x1b[0m"
 );
 console.log("\n");
