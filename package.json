@@ -1,7 +1,7 @@
 {
   "name": "gurpreet",
   "version": "1.0.5",
-  "description": "",
+  "description": "Business card of Gurpreet Singh",
   "main": "index.js",
   "bin": {
     "gurpreet": "index.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/learnwithgurpreet/gurpreet.git"
   },
-  "author": "",
+  "author": "Gurpreet Singh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/learnwithgurpreet/gurpreet/issues"

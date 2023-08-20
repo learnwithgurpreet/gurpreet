@@ -4,9 +4,9 @@ console.log(`
 
 Hi I'm Gurpreet
 
-I like creating and using specialized tools for making development processes as efficient as possible. I have the experience to work with big projects and big development teams.
+I am working as Senior Architect eXperience Engineering (front-end technologist) with Publicis Sapient. Having more than 15 years of experience in the area of jQuery, JavaScript, HTML5, and CSS3.
 
-Currently working as senior front-end architect at PublicisSapient.
+My expertise is to work on full stack-based projects using NodeJS and ReactJS.
 `);
 
 console.log(
@@ -26,7 +26,7 @@ console.log(
 console.log(
   "Ⓜ️  Mastodon:",
   "\x1b[36m",
-  "https://mastodon.green/@GurpreetSingh",
+  "https://social.notweet.de/@Gurpreet",
   "\x1b[0m"
 );
 console.log("\n");
