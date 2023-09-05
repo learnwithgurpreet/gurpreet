@@ -18,15 +18,21 @@ console.log(
 
 console.log("😎 Into:    ", "\x1b[36m", "https://gurpreet-singh.in", "\x1b[0m");
 console.log(
+  "🤝 About Me:",
+  "\x1b[36m",
+  "https://about.me/iamgurpreetsingh",
+  "\x1b[0m"
+);
+console.log(
   "👾 GitHub:  ",
   "\x1b[36m",
   "https://github.com/learnwithgurpreet",
   "\x1b[0m"
 );
 console.log(
-  "Ⓜ️  Mastodon:",
+  "🔗 Mastodon:",
   "\x1b[36m",
-  "https://social.notweet.de/@Gurpreet",
+  "https://mastodon.green/@Gurpreet",
   "\x1b[0m"
 );
 console.log("\n");
