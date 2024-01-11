@@ -32,7 +32,7 @@ console.log(
 console.log(
   "🔗 Mastodon:",
   "\x1b[36m",
-  "https://mastodon.green/@Gurpreet",
+  "https://fosstodon.org/@GurpreetSingh",
   "\x1b[0m"
 );
 console.log("\n");
