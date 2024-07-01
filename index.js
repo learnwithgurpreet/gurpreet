@@ -16,7 +16,12 @@ console.log(
   "\x1b[0m"
 );
 
-console.log("😎 Into:    ", "\x1b[36m", "https://gurpreet-singh.in", "\x1b[0m");
+console.log(
+  "😎 Into:    ",
+  "\x1b[36m",
+  "https://www.gurpreetsingh.me",
+  "\x1b[0m"
+);
 console.log(
   "🤝 About Me:",
   "\x1b[36m",
