@@ -12,7 +12,7 @@ My expertise is to work on full stack-based projects using NodeJS and ReactJS.
 console.log(
   "📖 Blog:    ",
   "\x1b[36m",
-  "https://b.gurpreetsingh.me",
+  "https://www.learnwithgurpreet.com",
   "\x1b[0m"
 );
 
